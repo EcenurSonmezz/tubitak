@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9AA2BD-D681-4CFB-AD3C-B47979850A00}|KBYS.DataAcces\\KBYS.DataAcces.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.dataacces\\migrations\\20250319190946_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9AA2BD-D681-4CFB-AD3C-B47979850A00}|KBYS.DataAcces\\KBYS.DataAcces.csproj|solutionrelative:kbys.dataacces\\migrations\\20250319190946_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\logs\\log-20240606.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\logs\\log-20240606.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\handler\\users\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\handler\\users\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\handler\\users\\addusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\handler\\users\\addusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\command\\users\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\users\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\handler\\users\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\handler\\users\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\controllers\\allergiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\controllers\\allergiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\mapping\\frontprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\mapping\\frontprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\command\\users\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\users\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\handler\\users\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\handler\\users\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbys.businesslogic\\handler\\users\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\handler\\users\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|c:\\users\\ecenr\\desktop\\tubitak\\t\u00FCbitak proje zip\\kbysapi\\kbysapi\\extensions\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|KBYSApi\\KBYSApi.csproj|solutionrelative:kbysapi\\extensions\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250319190946_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.DataAcces\\Migrations\\20250319190946_mig1.cs",
+              "RelativeDocumentMoniker": "KBYS.DataAcces\\Migrations\\20250319190946_mig1.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.DataAcces\\Migrations\\20250319190946_mig1.cs",
+              "RelativeToolTip": "KBYS.DataAcces\\Migrations\\20250319190946_mig1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T19:09:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Handler\\Users\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Handler\\Users\\UpdateUserCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:19:42.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Command\\Users\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Users\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Command\\Users\\UpdateUserCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Users\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:13:58.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllergiesController.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Controllers\\AllergiesController.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Controllers\\AllergiesController.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Controllers\\AllergiesController.cs",
+              "RelativeToolTip": "KBYSApi\\Controllers\\AllergiesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:08:37.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrontProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Mapping\\FrontProfile.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Mapping\\FrontProfile.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Mapping\\FrontProfile.cs",
+              "RelativeToolTip": "KBYSApi\\Mapping\\FrontProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T12:07:17.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Handler\\Users\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Handler\\Users\\DeleteUserCommandHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:51:53.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Command\\Users\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Users\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Command\\Users\\DeleteUserCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Users\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:49:12.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Handler\\Users\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Handler\\Users\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:45:42.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Handler\\Users\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\LoginCommandHandler.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Handler\\Users\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:45:34.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KBYSApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\appsettings.Development.json",
+              "RelativeToolTip": "KBYSApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T11:45:12.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "KBYSApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\appsettings.json",
+              "RelativeToolTip": "KBYSApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T11:45:08.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Extensions\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Extensions\\StartupExtensions.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Extensions\\StartupExtensions.cs",
+              "RelativeToolTip": "KBYSApi\\Extensions\\StartupExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwCYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:41:36.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KBYSApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:43:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log-20240606.txt",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\logs\\log-20240606.txt",
+              "RelativeDocumentMoniker": "KBYSApi\\logs\\log-20240606.txt",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\logs\\log-20240606.txt",
+              "RelativeToolTip": "KBYSApi\\logs\\log-20240606.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-31T11:43:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\AddUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Handler\\Users\\AddUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYS.BusinessLogic\\Handler\\Users\\AddUserCommandHandler.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Handler\\Users\\AddUserCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:43:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Extensions\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Extensions\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Extensions\\ValidationBehavior.cs",
+              "RelativeToolTip": "KBYSApi\\Extensions\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:42:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Program.cs",
+              "RelativeDocumentMoniker": "KBYSApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ecenr\\Desktop\\tubitak\\T\u00FCbitak Proje ZIP\\KBYSApi\\KBYSApi\\Program.cs",
+              "RelativeToolTip": "KBYSApi\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAawDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T11:41:03.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

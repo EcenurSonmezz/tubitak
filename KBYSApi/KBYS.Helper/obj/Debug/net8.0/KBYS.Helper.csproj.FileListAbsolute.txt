@@ -1,0 +1,48 @@
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.deps.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\refint\KBYS.Helper.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Helper\obj\Debug\net8.0\ref\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\refint\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\ref\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\refint\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Helper\obj\Debug\net8.0\ref\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.deps.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.AssemblyReference.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfoInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.AssemblyInfo.cs
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\refint\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Helper\obj\Debug\net8.0\ref\KBYS.Helper.dll

@@ -1,0 +1,92 @@
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.deps.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.runtimeconfig.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.Bus.59291A0B.Up2Date
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\refint\KBYS.BusinessLogic.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\ref\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.Bus.59291A0B.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\refint\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\ref\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.Bus.59291A0B.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\refint\KBYS.BusinessLogic.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\ref\KBYS.BusinessLogic.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.deps.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.runtimeconfig.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.AssemblyInfo.cs
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.Bus.59291A0B.Up2Date
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\refint\KBYS.BusinessLogic.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\KBYS.BusinessLogic.genruntimeconfig.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.BusinessLogic\obj\Debug\net8.0\ref\KBYS.BusinessLogic.dll

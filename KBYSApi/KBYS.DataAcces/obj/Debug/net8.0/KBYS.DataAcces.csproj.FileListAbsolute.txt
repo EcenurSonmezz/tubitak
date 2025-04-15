@@ -1,0 +1,68 @@
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.deps.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.runtimeconfig.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.Dat.D2655901.Up2Date
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\refint\KBYS.DataAcces.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\ref\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.Dat.D2655901.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\refint\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\ref\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.Dat.D2655901.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\refint\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\ref\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.deps.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.runtimeconfig.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.AssemblyReference.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfoInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.AssemblyInfo.cs
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.Dat.D2655901.Up2Date
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\refint\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\KBYS.DataAcces.genruntimeconfig.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.DataAcces\obj\Debug\net8.0\ref\KBYS.DataAcces.dll

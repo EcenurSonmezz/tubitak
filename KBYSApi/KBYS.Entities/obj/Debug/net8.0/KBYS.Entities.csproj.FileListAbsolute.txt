@@ -1,0 +1,56 @@
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.deps.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.runtimeconfig.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\refint\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Entities\obj\Debug\net8.0\ref\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\refint\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\ref\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\refint\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Entities\obj\Debug\net8.0\ref\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.deps.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.runtimeconfig.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.AssemblyReference.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfoInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.AssemblyInfo.cs
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\refint\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\KBYS.Entities.genruntimeconfig.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Entities\obj\Debug\net8.0\ref\KBYS.Entities.dll

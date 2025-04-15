@@ -1,0 +1,76 @@
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.deps.json
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Rep.E3C8761A.Up2Date
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\refint\KBYS.Repository.dll
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\source\repos\KBYSApi\KBYS.Repository\obj\Debug\net8.0\ref\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Rep.E3C8761A.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\refint\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\ref\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Rep.E3C8761A.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\refint\KBYS.Repository.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Tübitak Proje Güncel\KBYSApi\KBYS.Repository\obj\Debug\net8.0\ref\KBYS.Repository.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.deps.json
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.DataAcces.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Entities.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\bin\Debug\net8.0\KBYS.Helper.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.AssemblyReference.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfoInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.AssemblyInfo.cs
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Rep.E3C8761A.Up2Date
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\refint\KBYS.Repository.dll
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\KBYS.Repository.pdb
+C:\Users\ecenr\Desktop\tubitak\Tübitak Proje ZIP\KBYSApi\KBYS.Repository\obj\Debug\net8.0\ref\KBYS.Repository.dll

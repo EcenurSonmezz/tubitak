@@ -1,0 +1,296 @@
+[
+  {
+    "ContainingType": "KBYSApi.Controllers.AllergiesController",
+    "Method": "Add",
+    "RelativePath": "api/Allergies/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addAllergyCommand",
+        "Type": "KBYS.BusinessLogic.Command.Allergies.AddAllergyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Helper.ServiceResponse\u00601[[KBYS.Entities.Dto.AllergyDto, KBYS.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.AllergiesController",
+    "Method": "Delete",
+    "RelativePath": "api/Allergies/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Helper.ServiceResponse\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.AllergiesController",
+    "Method": "Search",
+    "RelativePath": "api/Allergies/Search/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.DiseasesController",
+    "Method": "Search",
+    "RelativePath": "api/Diseases/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYS.Api.Controllers.FoodController",
+    "Method": "Get",
+    "RelativePath": "api/Food/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Entities.Dto.FoodDto",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYS.Api.Controllers.FoodController",
+    "Method": "Search",
+    "RelativePath": "api/Food/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.NutritionalValueController",
+    "Method": "Get",
+    "RelativePath": "api/NutritionalValue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FoodId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Entities.Dto.NutritionalValueDto",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Entities.Dto.UserDto",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KBYS.Helper.ServiceResponse\u00601[[KBYS.Entities.Dto.UserDto, KBYS.Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json",
+          "application/xml"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserController",
+    "Method": "AddUserDiseases",
+    "RelativePath": "api/User/AddUserDiseases",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "KBYS.BusinessLogic.Command.UserDiseases.AddUserDiseaseCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "KBYS.BusinessLogic.Command.Users.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "KBYS.BusinessLogic.Command.Users.AddUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYSApi.Controllers.UserAllergiesController",
+    "Method": "Add",
+    "RelativePath": "api/UserAllergies/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addUserAllergyCommand",
+        "Type": "KBYS.BusinessLogic.Command.UserAllergies.AddUserAllergyCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYS.Api.Controllers.UserMealRecordController",
+    "Method": "AddUserMealRecord",
+    "RelativePath": "api/UserMealRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "KBYS.BusinessLogic.Command.UserMealRecord.AddUserMealRecordCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KBYS.Api.Controllers.UserMealRecordController",
+    "Method": "GetTodayUserMeals",
+    "RelativePath": "api/UserMealRecord/today/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

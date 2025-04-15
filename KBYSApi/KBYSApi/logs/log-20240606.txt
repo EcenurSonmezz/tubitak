@@ -1,0 +1,19 @@
+2024-06-06 19:46:43.035 +03:00 [INF] Now listening on: https://localhost:7164
+2024-06-06 19:46:43.076 +03:00 [INF] Now listening on: http://localhost:5160
+2024-06-06 19:46:43.081 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-06 19:46:43.081 +03:00 [INF] Hosting environment: Development
+2024-06-06 19:46:43.082 +03:00 [INF] Content root path: C:\Users\yusuf\source\repos\KBYSApi\KBYSApi
+2024-06-06 19:46:44.711 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/index.html - null null
+2024-06-06 19:46:44.986 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/index.html - 200 null text/html;charset=utf-8 284.823ms
+2024-06-06 19:46:45.001 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - null null
+2024-06-06 19:46:45.001 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7164/_vs/browserLink - null null
+2024-06-06 19:46:45.019 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 18.0966ms
+2024-06-06 19:46:45.066 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7164/_vs/browserLink - 200 null text/javascript; charset=UTF-8 65.8946ms
+2024-06-06 19:46:45.148 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - null null
+2024-06-06 19:46:45.333 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7164/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 185.638ms
+2024-06-06 19:47:16.363 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5160/api/User/register - application/json 68
+2024-06-06 19:47:16.368 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5160/api/User/register - 307 0 null 4.4603ms
+2024-06-06 19:47:16.414 +03:00 [INF] Request starting HTTP/2 OPTIONS https://localhost:7164/api/User/register - null null
+2024-06-06 19:47:16.419 +03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-06-06 19:47:16.419 +03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-06-06 19:47:16.420 +03:00 [INF] Request finished HTTP/2 OPTIONS https://localhost:7164/api/User/register - 405 0 null 7.4265ms
