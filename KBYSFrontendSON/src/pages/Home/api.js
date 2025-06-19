@@ -1,9 +1,11 @@
 import axios from 'axios';
 
+const apiUrl = import.meta.env.VITE_API_URL;
+
 // Besin ID'ye göre besin bilgilerini getirir
 export const getFoodById = async (id) => {
     try {
-        const response = await axios.get(`/api/Food/${id}`);
+        const response = await axios.get(`${apiUrl}Food/${id}`);
         return response.data;
     } catch (error) {
         console.error('Error fetching food by ID:', error);
@@ -11,11 +13,9 @@ export const getFoodById = async (id) => {
     }
 };
 
-
 export const getUserMealsByUserId = async (userId) => {
     try {
-        
-        const response = await axios.get(`/api/UserMealRecord/today/${userId}`);
+        const response = await axios.get(`${apiUrl}UserMealRecord/today/${userId}`);
         console.log("UserMeal",response.data);
         return response.data;
     } catch (error) {
@@ -27,7 +27,7 @@ export const getUserMealsByUserId = async (userId) => {
 // Kullanıcı besin kaydını oluşturur
 export const createUserMealRecord = async (userMealRecord) => {
     try {
-        const response = await axios.post('/api/UserMealRecord', userMealRecord);
+        const response = await axios.post(`${apiUrl}UserMealRecord`, userMealRecord);
         return response.data;
     } catch (error) {
         console.error('Error creating user meal record:', error);
